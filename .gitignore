@@ -79,15 +79,5 @@ target/
 # pyenv
 .python-version
 
-*/static/
-
-### Vagrant template
-# General
-.vagrant/
-# Log files (if you are creating logs in debug mode, uncomment this)
-# *.logs
-/reddit/credentials.py
 !/frontend/build/
 !/frontend/build/*
-#/RDdjango/static/
-/RDdjango/reddit/credentials.py
